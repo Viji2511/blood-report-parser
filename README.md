@@ -8,8 +8,8 @@ Features:
 4. REST API for backend processing using FastAPI.
 5. User-friendly React frontend for easy file upload and result visualization.
 
-Tech Stack
-Backend: Python, FastAPI, Tesseract OCR, OpenCV, spaCy, Transformers
-Frontend: React.js, Tailwind CSS
-Database (Optional for storage): PostgreSQL / MongoDB
-Deployment: Docker, Heroku / AWS
+Tech Stack:
+1. Backend: Python, FastAPI, Tesseract OCR, OpenCV, spaCy, Transformers
+2. Frontend: React.js, Tailwind CSS
+3. Database (Optional for storage): PostgreSQL / MongoDB
+4. Deployment: Docker, Heroku / AWS
